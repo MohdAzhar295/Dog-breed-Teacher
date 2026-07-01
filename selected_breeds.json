@@ -1,0 +1,185 @@
+{
+  "description": "30 common dog breeds selected from the Stanford Dogs dataset (120 breeds).",
+  "breeds": [
+    {
+      "id": "labrador_retriever",
+      "display_name": "Labrador Retriever",
+      "stanford_suffix": "Labrador_retriever",
+      "aliases": ["Labrador", "Lab"]
+    },
+    {
+      "id": "golden_retriever",
+      "display_name": "Golden Retriever",
+      "stanford_suffix": "Golden_retriever",
+      "aliases": ["Golden"]
+    },
+    {
+      "id": "german_shepherd",
+      "display_name": "German Shepherd",
+      "stanford_suffix": "German_shepherd",
+      "aliases": ["German Shepherd Dog", "Alsatian"]
+    },
+    {
+      "id": "beagle",
+      "display_name": "Beagle",
+      "stanford_suffix": "Beagle",
+      "aliases": []
+    },
+    {
+      "id": "rottweiler",
+      "display_name": "Rottweiler",
+      "stanford_suffix": "Rottweiler",
+      "aliases": []
+    },
+    {
+      "id": "yorkshire_terrier",
+      "display_name": "Yorkshire Terrier",
+      "stanford_suffix": "Yorkshire_terrier",
+      "aliases": ["Yorkie"]
+    },
+    {
+      "id": "boxer",
+      "display_name": "Boxer",
+      "stanford_suffix": "Boxer",
+      "aliases": []
+    },
+    {
+      "id": "standard_poodle",
+      "display_name": "Standard Poodle",
+      "stanford_suffix": "Standard_poodle",
+      "aliases": ["Poodle"]
+    },
+    {
+      "id": "siberian_husky",
+      "display_name": "Siberian Husky",
+      "stanford_suffix": "Siberian_husky",
+      "aliases": ["Husky"]
+    },
+    {
+      "id": "great_dane",
+      "display_name": "Great Dane",
+      "stanford_suffix": "Great_Dane",
+      "aliases": []
+    },
+    {
+      "id": "doberman",
+      "display_name": "Doberman Pinscher",
+      "stanford_suffix": "Doberman",
+      "aliases": ["Doberman"]
+    },
+    {
+      "id": "shih_tzu",
+      "display_name": "Shih Tzu",
+      "stanford_suffix": "Shih-Tzu",
+      "aliases": ["Shih Tzu"]
+    },
+    {
+      "id": "miniature_schnauzer",
+      "display_name": "Miniature Schnauzer",
+      "stanford_suffix": "Miniature_schnauzer",
+      "aliases": ["Schnauzer"]
+    },
+    {
+      "id": "chihuahua",
+      "display_name": "Chihuahua",
+      "stanford_suffix": "Chihuahua",
+      "aliases": []
+    },
+    {
+      "id": "pomeranian",
+      "display_name": "Pomeranian",
+      "stanford_suffix": "Pomeranian",
+      "aliases": []
+    },
+    {
+      "id": "border_collie",
+      "display_name": "Border Collie",
+      "stanford_suffix": "Border_collie",
+      "aliases": []
+    },
+    {
+      "id": "pembroke_welsh_corgi",
+      "display_name": "Pembroke Welsh Corgi",
+      "stanford_suffix": "Pembroke",
+      "aliases": ["Pembroke Welsh Corgi", "Corgi"]
+    },
+    {
+      "id": "cocker_spaniel",
+      "display_name": "Cocker Spaniel",
+      "stanford_suffix": "Cocker_spaniel",
+      "aliases": ["American Cocker Spaniel"]
+    },
+    {
+      "id": "bernese_mountain_dog",
+      "display_name": "Bernese Mountain Dog",
+      "stanford_suffix": "Bernese_mountain_dog",
+      "aliases": ["Bernese"]
+    },
+    {
+      "id": "saint_bernard",
+      "display_name": "Saint Bernard",
+      "stanford_suffix": "Saint_Bernard",
+      "aliases": ["St. Bernard"]
+    },
+    {
+      "id": "maltese",
+      "display_name": "Maltese",
+      "stanford_suffix": "Maltese_dog",
+      "aliases": ["Maltese Dog"]
+    },
+    {
+      "id": "boston_terrier",
+      "display_name": "Boston Terrier",
+      "stanford_suffix": "Boston_bull",
+      "aliases": ["Boston Bull"]
+    },
+    {
+      "id": "alaskan_malamute",
+      "display_name": "Alaskan Malamute",
+      "stanford_suffix": "malamute",
+      "aliases": ["Malamute"]
+    },
+    {
+      "id": "samoyed",
+      "display_name": "Samoyed",
+      "stanford_suffix": "Samoyed",
+      "aliases": []
+    },
+    {
+      "id": "pug",
+      "display_name": "Pug",
+      "stanford_suffix": "Pug",
+      "aliases": []
+    },
+    {
+      "id": "weimaraner",
+      "display_name": "Weimaraner",
+      "stanford_suffix": "Weimaraner",
+      "aliases": []
+    },
+    {
+      "id": "collie",
+      "display_name": "Collie",
+      "stanford_suffix": "Collie",
+      "aliases": ["Rough Collie"]
+    },
+    {
+      "id": "shetland_sheepdog",
+      "display_name": "Shetland Sheepdog",
+      "stanford_suffix": "Shetland_sheepdog",
+      "aliases": ["Sheltie"]
+    },
+    {
+      "id": "english_springer",
+      "display_name": "English Springer Spaniel",
+      "stanford_suffix": "English_springer",
+      "aliases": ["Springer Spaniel"]
+    },
+    {
+      "id": "bull_mastiff",
+      "display_name": "Bullmastiff",
+      "stanford_suffix": "Bull_mastiff",
+      "aliases": ["Bull Mastiff"]
+    }
+  ]
+}

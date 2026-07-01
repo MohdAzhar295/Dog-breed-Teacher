@@ -1,0 +1,1532 @@
+{
+  "breeds": [
+    {
+      "breed_id": "labrador_retriever",
+      "display_name": "Labrador Retriever",
+      "aliases": [
+        "Labrador",
+        "Lab"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "55-80 lbs",
+        "height_range": "21.5-24.5 inches",
+        "coat": "Short, dense, water-resistant double coat",
+        "colors": [
+          "Black",
+          "Yellow",
+          "Chocolate"
+        ],
+        "life_span": "10-12 years"
+      },
+      "temperament_tags": [
+        "friendly",
+        "outgoing",
+        "eager_to_please",
+        "gentle"
+      ],
+      "behavior_notes": "Highly trainable and social. Labs thrive on activity, games, and human interaction. They are usually good with children and other pets when socialized.",
+      "suitable_environment": {
+        "housing": "Best with yard access, but can adapt to apartments with daily exercise",
+        "climate": "Tolerates most climates; avoid overheating during intense summer activity",
+        "exercise_needs": "High - 60+ minutes daily",
+        "family_fit": "Excellent family dog"
+      },
+      "food_priority": {
+        "diet_focus": "Balanced high-quality diet with controlled calories",
+        "notes": "Prone to weight gain; prioritize lean protein, portion control, and joint-support nutrients for active dogs"
+      },
+      "grooming": "Moderate shedding year-round; brush weekly, more in shedding season",
+      "exercise": "Swimming, fetch, long walks, and structured training sessions",
+      "sources": [
+        "https://www.akc.org/dog-breeds/labrador-retriever/"
+      ],
+      "origin": {
+        "origin_country": "Canada / United Kingdom",
+        "region": "Newfoundland and Labrador, Canada; refined in the UK",
+        "historical_role": "Fishing and water-retrieval companion",
+        "commonly_found_in": [
+          "North America",
+          "United Kingdom",
+          "Australia",
+          "Western Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "golden_retriever",
+      "display_name": "Golden Retriever",
+      "aliases": [
+        "Golden"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "55-75 lbs",
+        "height_range": "21.5-24 inches",
+        "coat": "Dense water-repellent outer coat with undercoat",
+        "colors": [
+          "Various shades of gold"
+        ],
+        "life_span": "10-12 years"
+      },
+      "temperament_tags": [
+        "friendly",
+        "reliable",
+        "trustworthy",
+        "intelligent"
+      ],
+      "behavior_notes": "Gentle, patient, and highly trainable. Goldens are known for stable temperament and strong bond with families.",
+      "suitable_environment": {
+        "housing": "Homes with space and active owners",
+        "climate": "Adapts well; monitor heat during heavy exercise",
+        "exercise_needs": "High - daily walks, play, and mental stimulation",
+        "family_fit": "Excellent with children and multi-pet homes"
+      },
+      "food_priority": {
+        "diet_focus": "Balanced adult or large-breed formula",
+        "notes": "Watch weight and coat health; omega fatty acids can support skin and coat"
+      },
+      "grooming": "Regular brushing 2-3 times weekly; ear care important",
+      "exercise": "Retrieving games, hiking, obedience training",
+      "sources": [
+        "https://www.akc.org/dog-breeds/golden-retriever/"
+      ],
+      "origin": {
+        "origin_country": "Scotland",
+        "region": "Scottish Highlands",
+        "historical_role": "Gundog bred for retrieving game",
+        "commonly_found_in": [
+          "United States",
+          "Canada",
+          "United Kingdom",
+          "Australia"
+        ]
+      }
+    },
+    {
+      "breed_id": "german_shepherd",
+      "display_name": "German Shepherd",
+      "aliases": [
+        "German Shepherd Dog",
+        "Alsatian"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "50-90 lbs",
+        "height_range": "22-26 inches",
+        "coat": "Medium double coat",
+        "colors": [
+          "Black and tan",
+          "Sable",
+          "Black"
+        ],
+        "life_span": "7-10 years"
+      },
+      "temperament_tags": [
+        "loyal",
+        "confident",
+        "protective",
+        "intelligent"
+      ],
+      "behavior_notes": "Alert and trainable with strong working drive. Needs early socialization and consistent leadership.",
+      "suitable_environment": {
+        "housing": "Needs space and structured routine",
+        "climate": "Handles cooler climates well",
+        "exercise_needs": "Very high - physical and mental work daily",
+        "family_fit": "Great for experienced owners"
+      },
+      "food_priority": {
+        "diet_focus": "High-quality protein for active dogs",
+        "notes": "Joint support and controlled growth important for puppies; avoid overfeeding"
+      },
+      "grooming": "Frequent brushing; heavy seasonal shedding",
+      "exercise": "Agility, obedience, long runs, scent work",
+      "sources": [
+        "https://www.akc.org/dog-breeds/german-shepherd-dog/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Germany",
+        "historical_role": "Herding and working dog",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "India",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "beagle",
+      "display_name": "Beagle",
+      "aliases": [],
+      "characteristics": {
+        "size": "Small to medium",
+        "weight_range": "20-30 lbs",
+        "height_range": "13-15 inches",
+        "coat": "Short, dense, weather-resistant",
+        "colors": [
+          "Tricolor",
+          "Lemon",
+          "Red and white"
+        ],
+        "life_span": "10-15 years"
+      },
+      "temperament_tags": [
+        "curious",
+        "friendly",
+        "merry",
+        "determined"
+      ],
+      "behavior_notes": "Scent-driven and social. Can be vocal and stubborn when tracking a smell.",
+      "suitable_environment": {
+        "housing": "Apartment possible with enough exercise and secure fencing",
+        "climate": "Generally adaptable",
+        "exercise_needs": "Moderate to high - scent walks and play",
+        "family_fit": "Good family companion"
+      },
+      "food_priority": {
+        "diet_focus": "Portion-controlled diet",
+        "notes": "Beagles love food and gain weight easily; use measured meals and low-calorie treats"
+      },
+      "grooming": "Low maintenance; weekly brushing",
+      "exercise": "Long sniff walks, puzzle toys, supervised outdoor play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/beagle/"
+      ],
+      "origin": {
+        "origin_country": "England",
+        "region": "England",
+        "historical_role": "Scent hound for rabbit hunting",
+        "commonly_found_in": [
+          "United States",
+          "United Kingdom",
+          "India",
+          "Australia"
+        ]
+      }
+    },
+    {
+      "breed_id": "rottweiler",
+      "display_name": "Rottweiler",
+      "aliases": [],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "80-135 lbs",
+        "height_range": "22-27 inches",
+        "coat": "Short double coat",
+        "colors": [
+          "Black and tan"
+        ],
+        "life_span": "9-10 years"
+      },
+      "temperament_tags": [
+        "loyal",
+        "confident",
+        "protective",
+        "calm"
+      ],
+      "behavior_notes": "Naturally guarding but affectionate with family. Requires training, socialization, and clear boundaries.",
+      "suitable_environment": {
+        "housing": "Best with experienced owners and secure yard",
+        "climate": "Moderate climates preferred",
+        "exercise_needs": "Moderate to high",
+        "family_fit": "Loyal family guardian with proper training"
+      },
+      "food_priority": {
+        "diet_focus": "Large-breed balanced nutrition",
+        "notes": "Support joint health and maintain healthy weight to reduce stress on joints"
+      },
+      "grooming": "Weekly brushing; moderate shedding",
+      "exercise": "Structured walks, obedience, controlled play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/rottweiler/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Rottweil, Germany",
+        "historical_role": "Cattle drover and guard dog",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "Brazil",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "yorkshire_terrier",
+      "display_name": "Yorkshire Terrier",
+      "aliases": [
+        "Yorkie"
+      ],
+      "characteristics": {
+        "size": "Toy",
+        "weight_range": "4-7 lbs",
+        "height_range": "7-8 inches",
+        "coat": "Fine, silky, continuously growing",
+        "colors": [
+          "Blue and tan"
+        ],
+        "life_span": "11-15 years"
+      },
+      "temperament_tags": [
+        "bold",
+        "affectionate",
+        "alert",
+        "spirited"
+      ],
+      "behavior_notes": "Small but confident. Can be territorial and vocal without training.",
+      "suitable_environment": {
+        "housing": "Excellent apartment dog",
+        "climate": "Sensitive to cold; may need coats in winter",
+        "exercise_needs": "Low to moderate",
+        "family_fit": "Best for families with gentle handling of small dogs"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed formula with quality protein",
+        "notes": "Small frequent meals; dental care is important"
+      },
+      "grooming": "High maintenance coat; regular brushing and grooming",
+      "exercise": "Short walks and indoor play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/yorkshire-terrier/"
+      ],
+      "origin": {
+        "origin_country": "England",
+        "region": "Yorkshire, England",
+        "historical_role": "Ratting and companion dog in mills",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Japan",
+          "Urban areas worldwide"
+        ]
+      }
+    },
+    {
+      "breed_id": "boxer",
+      "display_name": "Boxer",
+      "aliases": [],
+      "characteristics": {
+        "size": "Medium to large",
+        "weight_range": "55-80 lbs",
+        "height_range": "21.5-25 inches",
+        "coat": "Short, smooth",
+        "colors": [
+          "Fawn",
+          "Brindle",
+          "White markings"
+        ],
+        "life_span": "10-12 years"
+      },
+      "temperament_tags": [
+        "playful",
+        "energetic",
+        "loyal",
+        "friendly"
+      ],
+      "behavior_notes": "Fun-loving and affectionate. Can be boisterous as puppies and needs consistent training.",
+      "suitable_environment": {
+        "housing": "Active households with room to play",
+        "climate": "Sensitive to extreme heat due to short muzzle",
+        "exercise_needs": "High",
+        "family_fit": "Great with active families"
+      },
+      "food_priority": {
+        "diet_focus": "High-quality protein for muscular breeds",
+        "notes": "Avoid exercise immediately after large meals due to bloat risk"
+      },
+      "grooming": "Minimal; occasional brushing",
+      "exercise": "Running, fetch, interactive play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/boxer/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Munich, Germany",
+        "historical_role": "Bullenbeisser descendant used for hunting and guarding",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "Brazil",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "standard_poodle",
+      "display_name": "Standard Poodle",
+      "aliases": [
+        "Poodle"
+      ],
+      "characteristics": {
+        "size": "Large (standard variety)",
+        "weight_range": "40-70 lbs",
+        "height_range": "Over 15 inches",
+        "coat": "Curly, dense, low-shedding",
+        "colors": [
+          "Black",
+          "White",
+          "Apricot",
+          "Gray",
+          "Many others"
+        ],
+        "life_span": "10-18 years"
+      },
+      "temperament_tags": [
+        "intelligent",
+        "active",
+        "trainable",
+        "alert"
+      ],
+      "behavior_notes": "One of the smartest breeds. Needs mental stimulation and consistent training.",
+      "suitable_environment": {
+        "housing": "Adaptable with sufficient exercise",
+        "climate": "Adapts well to many climates",
+        "exercise_needs": "High mental and physical activity",
+        "family_fit": "Excellent for engaged owners"
+      },
+      "food_priority": {
+        "diet_focus": "Balanced diet supporting skin and coat",
+        "notes": "Quality protein and healthy fats help maintain coat quality"
+      },
+      "grooming": "High maintenance; professional grooming every 4-6 weeks",
+      "exercise": "Swimming, agility, advanced obedience",
+      "sources": [
+        "https://www.akc.org/dog-breeds/poodle-standard/"
+      ],
+      "origin": {
+        "origin_country": "Germany / France",
+        "region": "Germany (breeding) and France (standardization)",
+        "historical_role": "Water retriever and circus performer",
+        "commonly_found_in": [
+          "France",
+          "United States",
+          "United Kingdom",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "siberian_husky",
+      "display_name": "Siberian Husky",
+      "aliases": [
+        "Husky"
+      ],
+      "characteristics": {
+        "size": "Medium",
+        "weight_range": "35-60 lbs",
+        "height_range": "20-23.5 inches",
+        "coat": "Thick double coat",
+        "colors": [
+          "Black and white",
+          "Gray and white",
+          "Red and white"
+        ],
+        "life_span": "12-14 years"
+      },
+      "temperament_tags": [
+        "outgoing",
+        "mischievous",
+        "energetic",
+        "independent"
+      ],
+      "behavior_notes": "Friendly but strong-willed. Known for escape attempts and high endurance.",
+      "suitable_environment": {
+        "housing": "Needs secure fencing and cold-friendly climate",
+        "climate": "Prefers cooler weather",
+        "exercise_needs": "Very high",
+        "family_fit": "Best for active experienced owners"
+      },
+      "food_priority": {
+        "diet_focus": "Calorie-dense diet for active dogs",
+        "notes": "Adjust portions to activity level; avoid overheating during exercise"
+      },
+      "grooming": "Heavy seasonal shedding; brush frequently",
+      "exercise": "Long runs, sledding-style activities, hiking",
+      "sources": [
+        "https://www.akc.org/dog-breeds/siberian-husky/"
+      ],
+      "origin": {
+        "origin_country": "Russia",
+        "region": "Siberia, northeastern Russia",
+        "historical_role": "Sled dog for Chukchi people",
+        "commonly_found_in": [
+          "Russia",
+          "United States",
+          "Canada",
+          "Cold-climate regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "great_dane",
+      "display_name": "Great Dane",
+      "aliases": [],
+      "characteristics": {
+        "size": "Giant",
+        "weight_range": "110-175 lbs",
+        "height_range": "28-32 inches",
+        "coat": "Short, smooth",
+        "colors": [
+          "Fawn",
+          "Brindle",
+          "Blue",
+          "Black",
+          "Harlequin"
+        ],
+        "life_span": "7-10 years"
+      },
+      "temperament_tags": [
+        "gentle",
+        "friendly",
+        "patient",
+        "confident"
+      ],
+      "behavior_notes": "Often called gentle giants. Calm indoors but needs space due to size.",
+      "suitable_environment": {
+        "housing": "Large home preferred; not ideal for tiny apartments",
+        "climate": "Moderate climates; avoid strenuous heat",
+        "exercise_needs": "Moderate daily walks",
+        "family_fit": "Good family dog with space"
+      },
+      "food_priority": {
+        "diet_focus": "Large-breed growth and joint-support formula",
+        "notes": "Controlled growth in puppies is critical; multiple smaller meals reduce bloat risk"
+      },
+      "grooming": "Low maintenance coat",
+      "exercise": "Leash walks and controlled play; avoid overexertion in puppies",
+      "sources": [
+        "https://www.akc.org/dog-breeds/great-dane/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Germany",
+        "historical_role": "Boar hunting and estate guardian",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "Brazil",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "doberman",
+      "display_name": "Doberman Pinscher",
+      "aliases": [
+        "Doberman"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "60-100 lbs",
+        "height_range": "24-28 inches",
+        "coat": "Short, smooth",
+        "colors": [
+          "Black and rust",
+          "Red and rust"
+        ],
+        "life_span": "10-12 years"
+      },
+      "temperament_tags": [
+        "loyal",
+        "alert",
+        "fearless",
+        "intelligent"
+      ],
+      "behavior_notes": "Protective and highly trainable. Thrives with structure, exercise, and companionship.",
+      "suitable_environment": {
+        "housing": "Active home with training commitment",
+        "climate": "Adapts well",
+        "exercise_needs": "High",
+        "family_fit": "Excellent for dedicated owners"
+      },
+      "food_priority": {
+        "diet_focus": "High-protein performance diet",
+        "notes": "Maintain lean muscle and healthy weight for joint longevity"
+      },
+      "grooming": "Minimal grooming needs",
+      "exercise": "Running, obedience, protection sports",
+      "sources": [
+        "https://www.akc.org/dog-breeds/doberman-pinscher/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Thuringia, Germany",
+        "historical_role": "Personal protection and guard dog",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "Russia",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "shih_tzu",
+      "display_name": "Shih Tzu",
+      "aliases": [
+        "Shih Tzu"
+      ],
+      "characteristics": {
+        "size": "Toy",
+        "weight_range": "9-16 lbs",
+        "height_range": "9-10.5 inches",
+        "coat": "Long, flowing double coat",
+        "colors": [
+          "Many color combinations"
+        ],
+        "life_span": "10-18 years"
+      },
+      "temperament_tags": [
+        "affectionate",
+        "playful",
+        "charming",
+        "friendly"
+      ],
+      "behavior_notes": "Companion-focused and generally sociable. Enjoys close human contact.",
+      "suitable_environment": {
+        "housing": "Ideal apartment dog",
+        "climate": "Avoid prolonged heat due to brachycephalic traits",
+        "exercise_needs": "Low to moderate",
+        "family_fit": "Great companion for many households"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed balanced diet",
+        "notes": "Monitor dental health and avoid overfeeding"
+      },
+      "grooming": "Daily brushing if coat kept long; regular face cleaning",
+      "exercise": "Short walks and indoor play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/shih-tzu/"
+      ],
+      "origin": {
+        "origin_country": "Tibet / China",
+        "region": "Tibet and Chinese imperial courts",
+        "historical_role": "Palace companion dog",
+        "commonly_found_in": [
+          "China",
+          "United States",
+          "United Kingdom",
+          "East and Southeast Asia"
+        ]
+      }
+    },
+    {
+      "breed_id": "miniature_schnauzer",
+      "display_name": "Miniature Schnauzer",
+      "aliases": [
+        "Schnauzer"
+      ],
+      "characteristics": {
+        "size": "Small",
+        "weight_range": "11-20 lbs",
+        "height_range": "12-14 inches",
+        "coat": "Wiry double coat",
+        "colors": [
+          "Salt and pepper",
+          "Black and silver",
+          "Black"
+        ],
+        "life_span": "12-15 years"
+      },
+      "temperament_tags": [
+        "spirited",
+        "alert",
+        "friendly",
+        "obedient"
+      ],
+      "behavior_notes": "Lively and vocal watchdog. Responds well to training and routine.",
+      "suitable_environment": {
+        "housing": "Well suited to apartments and houses",
+        "climate": "Adaptable",
+        "exercise_needs": "Moderate",
+        "family_fit": "Good family companion"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed diet with quality protein",
+        "notes": "Watch weight and support coat with balanced fats"
+      },
+      "grooming": "Regular trimming and brushing; professional grooming recommended",
+      "exercise": "Daily walks and interactive play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/miniature-schnauzer/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Germany",
+        "historical_role": "Farm ratter and watchdog",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "United Kingdom",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "chihuahua",
+      "display_name": "Chihuahua",
+      "aliases": [],
+      "characteristics": {
+        "size": "Toy",
+        "weight_range": "Up to 6 lbs",
+        "height_range": "5-8 inches",
+        "coat": "Smooth or long coat varieties",
+        "colors": [
+          "Many colors and patterns"
+        ],
+        "life_span": "14-16 years"
+      },
+      "temperament_tags": [
+        "charming",
+        "alert",
+        "confident",
+        "loyal"
+      ],
+      "behavior_notes": "Tiny but bold. Can be wary of strangers without socialization.",
+      "suitable_environment": {
+        "housing": "Excellent for apartments",
+        "climate": "Needs warmth in cold weather",
+        "exercise_needs": "Low",
+        "family_fit": "Best with gentle handling"
+      },
+      "food_priority": {
+        "diet_focus": "Toy-breed calorie-dense nutrition",
+        "notes": "Small portions; dental care is essential"
+      },
+      "grooming": "Low to moderate depending on coat type",
+      "exercise": "Short walks and indoor activity",
+      "sources": [
+        "https://www.akc.org/dog-breeds/chihuahua/"
+      ],
+      "origin": {
+        "origin_country": "Mexico",
+        "region": "Chihuahua state, Mexico",
+        "historical_role": "Companion dog with ancient Mesoamerican roots",
+        "commonly_found_in": [
+          "Mexico",
+          "United States",
+          "Japan",
+          "Urban areas worldwide"
+        ]
+      }
+    },
+    {
+      "breed_id": "pomeranian",
+      "display_name": "Pomeranian",
+      "aliases": [],
+      "characteristics": {
+        "size": "Toy",
+        "weight_range": "3-7 lbs",
+        "height_range": "6-7 inches",
+        "coat": "Thick double coat",
+        "colors": [
+          "Orange",
+          "Black",
+          "White",
+          "Many others"
+        ],
+        "life_span": "12-16 years"
+      },
+      "temperament_tags": [
+        "lively",
+        "bold",
+        "inquisitive",
+        "alert"
+      ],
+      "behavior_notes": "Confident and vocal. Enjoys attention and can be strong-willed.",
+      "suitable_environment": {
+        "housing": "Great apartment dog",
+        "climate": "Can overheat in hot weather due to thick coat",
+        "exercise_needs": "Low to moderate",
+        "family_fit": "Good companion with supervision around small children"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed high-quality diet",
+        "notes": "Avoid obesity; use tiny treats for training"
+      },
+      "grooming": "Frequent brushing; seasonal shedding",
+      "exercise": "Short walks and play sessions",
+      "sources": [
+        "https://www.akc.org/dog-breeds/pomeranian/"
+      ],
+      "origin": {
+        "origin_country": "Germany / Poland",
+        "region": "Pomerania region (Baltic coast)",
+        "historical_role": "Spitz-type companion descended from larger sled dogs",
+        "commonly_found_in": [
+          "United States",
+          "United Kingdom",
+          "Germany",
+          "Europe and Asia"
+        ]
+      }
+    },
+    {
+      "breed_id": "border_collie",
+      "display_name": "Border Collie",
+      "aliases": [],
+      "characteristics": {
+        "size": "Medium",
+        "weight_range": "30-55 lbs",
+        "height_range": "18-22 inches",
+        "coat": "Medium double coat",
+        "colors": [
+          "Black and white",
+          "Red and white",
+          "Many patterns"
+        ],
+        "life_span": "12-15 years"
+      },
+      "temperament_tags": [
+        "intelligent",
+        "energetic",
+        "focused",
+        "responsive"
+      ],
+      "behavior_notes": "Extremely driven working breed. Needs jobs, training, and mental challenges.",
+      "suitable_environment": {
+        "housing": "Best with active owners and space to work",
+        "climate": "Adapts well",
+        "exercise_needs": "Very high",
+        "family_fit": "Excellent for sport and farm homes"
+      },
+      "food_priority": {
+        "diet_focus": "High-energy active-dog nutrition",
+        "notes": "Higher calorie needs when training or working daily"
+      },
+      "grooming": "Regular brushing; moderate shedding",
+      "exercise": "Herding games, agility, advanced training",
+      "sources": [
+        "https://www.akc.org/dog-breeds/border-collie/"
+      ],
+      "origin": {
+        "origin_country": "United Kingdom",
+        "region": "Anglo-Scottish border",
+        "historical_role": "Sheep herding on border farms",
+        "commonly_found_in": [
+          "United Kingdom",
+          "Australia",
+          "New Zealand",
+          "United States"
+        ]
+      }
+    },
+    {
+      "breed_id": "pembroke_welsh_corgi",
+      "display_name": "Pembroke Welsh Corgi",
+      "aliases": [
+        "Pembroke Welsh Corgi",
+        "Corgi"
+      ],
+      "characteristics": {
+        "size": "Small",
+        "weight_range": "Up to 30 lbs",
+        "height_range": "10-12 inches",
+        "coat": "Medium double coat",
+        "colors": [
+          "Red",
+          "Sable",
+          "Fawn",
+          "Black and tan"
+        ],
+        "life_span": "12-13 years"
+      },
+      "temperament_tags": [
+        "affectionate",
+        "smart",
+        "alert",
+        "active"
+      ],
+      "behavior_notes": "Herding instincts remain strong. Can nip at heels and bark to manage movement.",
+      "suitable_environment": {
+        "housing": "Apartment-friendly with daily activity",
+        "climate": "Generally adaptable",
+        "exercise_needs": "Moderate to high",
+        "family_fit": "Great companion with training"
+      },
+      "food_priority": {
+        "diet_focus": "Weight-controlled diet",
+        "notes": "Prone to obesity; protect back and joints by maintaining healthy weight"
+      },
+      "grooming": "Regular brushing; heavy shedding seasons",
+      "exercise": "Walks, puzzle toys, low-impact play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/"
+      ],
+      "origin": {
+        "origin_country": "Wales",
+        "region": "Pembrokeshire, Wales",
+        "historical_role": "Cattle herding on Welsh farms",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Japan",
+          "Australia"
+        ]
+      }
+    },
+    {
+      "breed_id": "cocker_spaniel",
+      "display_name": "Cocker Spaniel",
+      "aliases": [
+        "American Cocker Spaniel"
+      ],
+      "characteristics": {
+        "size": "Medium",
+        "weight_range": "20-30 lbs",
+        "height_range": "13.5-15.5 inches",
+        "coat": "Silky medium-length coat",
+        "colors": [
+          "Many solid and parti-colors"
+        ],
+        "life_span": "10-14 years"
+      },
+      "temperament_tags": [
+        "gentle",
+        "happy",
+        "smart",
+        "affectionate"
+      ],
+      "behavior_notes": "People-oriented and trainable. Enjoys companionship and structured play.",
+      "suitable_environment": {
+        "housing": "Adaptable to apartments and houses",
+        "climate": "Adapts well",
+        "exercise_needs": "Moderate",
+        "family_fit": "Excellent family dog"
+      },
+      "food_priority": {
+        "diet_focus": "Balanced maintenance diet",
+        "notes": "Monitor ear health and weight; regular grooming supports skin health"
+      },
+      "grooming": "Regular brushing and ear cleaning",
+      "exercise": "Walks, fetch, scent games",
+      "sources": [
+        "https://www.akc.org/dog-breeds/cocker-spaniel/"
+      ],
+      "origin": {
+        "origin_country": "Spain / England",
+        "region": "Spain (ancestors) and England (modern breed)",
+        "historical_role": "Woodcock and game bird flushing",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Spain",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "bernese_mountain_dog",
+      "display_name": "Bernese Mountain Dog",
+      "aliases": [
+        "Bernese"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "70-115 lbs",
+        "height_range": "23-27.5 inches",
+        "coat": "Thick, moderately long tricolor coat",
+        "colors": [
+          "Black, rust, and white"
+        ],
+        "life_span": "7-10 years"
+      },
+      "temperament_tags": [
+        "gentle",
+        "calm",
+        "affectionate",
+        "loyal"
+      ],
+      "behavior_notes": "Calm family companion with strong bond to owners. Can be reserved with strangers.",
+      "suitable_environment": {
+        "housing": "Needs space; prefers cooler climates",
+        "climate": "Cooler weather preferred",
+        "exercise_needs": "Moderate",
+        "family_fit": "Excellent gentle family dog"
+      },
+      "food_priority": {
+        "diet_focus": "Large-breed joint-support nutrition",
+        "notes": "Controlled growth in puppies; maintain healthy weight"
+      },
+      "grooming": "Frequent brushing; heavy shedding",
+      "exercise": "Leisurely hikes and supervised play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/bernese-mountain-dog/"
+      ],
+      "origin": {
+        "origin_country": "Switzerland",
+        "region": "Canton of Bern, Swiss Alps",
+        "historical_role": "Farm draft and drover dog",
+        "commonly_found_in": [
+          "Switzerland",
+          "Germany",
+          "United States",
+          "Alpine and temperate regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "saint_bernard",
+      "display_name": "Saint Bernard",
+      "aliases": [
+        "St. Bernard"
+      ],
+      "characteristics": {
+        "size": "Giant",
+        "weight_range": "120-180 lbs",
+        "height_range": "26-30 inches",
+        "coat": "Short or long coat varieties",
+        "colors": [
+          "Red and white",
+          "Mahogany and white"
+        ],
+        "life_span": "8-10 years"
+      },
+      "temperament_tags": [
+        "gentle",
+        "patient",
+        "watchful",
+        "friendly"
+      ],
+      "behavior_notes": "Known for calm temperament with family. Drools and needs space due to size.",
+      "suitable_environment": {
+        "housing": "Large home with room to move",
+        "climate": "Prefers cooler climates",
+        "exercise_needs": "Moderate",
+        "family_fit": "Good with children when supervised"
+      },
+      "food_priority": {
+        "diet_focus": "Giant-breed controlled-calorie diet",
+        "notes": "Avoid rapid growth in puppies; monitor joint stress"
+      },
+      "grooming": "Regular brushing; drool management needed",
+      "exercise": "Short to moderate walks; avoid heat stress",
+      "sources": [
+        "https://www.akc.org/dog-breeds/saint-bernard/"
+      ],
+      "origin": {
+        "origin_country": "Switzerland / Italy",
+        "region": "Swiss and Italian Alps (Great St Bernard Pass)",
+        "historical_role": "Alpine rescue and monastery companion",
+        "commonly_found_in": [
+          "Switzerland",
+          "United States",
+          "Germany",
+          "Cold mountain regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "maltese",
+      "display_name": "Maltese",
+      "aliases": [
+        "Maltese Dog"
+      ],
+      "characteristics": {
+        "size": "Toy",
+        "weight_range": "Under 7 lbs",
+        "height_range": "7-9 inches",
+        "coat": "Long, silky, white coat",
+        "colors": [
+          "White"
+        ],
+        "life_span": "12-15 years"
+      },
+      "temperament_tags": [
+        "gentle",
+        "playful",
+        "charming",
+        "affectionate"
+      ],
+      "behavior_notes": "Devoted companion breed. Can be alert and vocal as a watchdog.",
+      "suitable_environment": {
+        "housing": "Ideal apartment dog",
+        "climate": "Sensitive to cold and wet conditions",
+        "exercise_needs": "Low",
+        "family_fit": "Great lap companion"
+      },
+      "food_priority": {
+        "diet_focus": "Toy-breed nutrition with dental support",
+        "notes": "Small meals; prioritize dental hygiene"
+      },
+      "grooming": "Daily coat care if kept long",
+      "exercise": "Indoor play and short walks",
+      "sources": [
+        "https://www.akc.org/dog-breeds/maltese/"
+      ],
+      "origin": {
+        "origin_country": "Malta",
+        "region": "Mediterranean island of Malta",
+        "historical_role": "Lapdog favored in Mediterranean trade ports",
+        "commonly_found_in": [
+          "Malta",
+          "Italy",
+          "United States",
+          "Mediterranean and urban areas"
+        ]
+      }
+    },
+    {
+      "breed_id": "boston_terrier",
+      "display_name": "Boston Terrier",
+      "aliases": [
+        "Boston Bull"
+      ],
+      "characteristics": {
+        "size": "Small",
+        "weight_range": "12-25 lbs",
+        "height_range": "15-17 inches",
+        "coat": "Short, smooth",
+        "colors": [
+          "Black and white",
+          "Brindle and white",
+          "Seal and white"
+        ],
+        "life_span": "11-13 years"
+      },
+      "temperament_tags": [
+        "friendly",
+        "bright",
+        "amusing",
+        "gentle"
+      ],
+      "behavior_notes": "Sociable and adaptable companion. Generally good with families.",
+      "suitable_environment": {
+        "housing": "Excellent city and apartment dog",
+        "climate": "Avoid heat due to short muzzle",
+        "exercise_needs": "Low to moderate",
+        "family_fit": "Great family companion"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed balanced diet",
+        "notes": "Watch weight and use measured feeding"
+      },
+      "grooming": "Minimal grooming",
+      "exercise": "Short walks and indoor games",
+      "sources": [
+        "https://www.akc.org/dog-breeds/boston-terrier/"
+      ],
+      "origin": {
+        "origin_country": "United States",
+        "region": "Boston, Massachusetts",
+        "historical_role": "American gentleman companion bred from bulldog and terrier lines",
+        "commonly_found_in": [
+          "United States",
+          "Canada",
+          "Japan",
+          "Urban North America"
+        ]
+      }
+    },
+    {
+      "breed_id": "alaskan_malamute",
+      "display_name": "Alaskan Malamute",
+      "aliases": [
+        "Malamute"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "75-85 lbs",
+        "height_range": "23-25 inches",
+        "coat": "Thick double coat",
+        "colors": [
+          "Gray and white",
+          "Black and white",
+          "Sable and white"
+        ],
+        "life_span": "10-14 years"
+      },
+      "temperament_tags": [
+        "affectionate",
+        "loyal",
+        "playful",
+        "strong_willed"
+      ],
+      "behavior_notes": "Pack-oriented and powerful. Needs training and secure containment.",
+      "suitable_environment": {
+        "housing": "Cold-climate homes with space",
+        "climate": "Prefers cold weather",
+        "exercise_needs": "Very high",
+        "family_fit": "Best for experienced active owners"
+      },
+      "food_priority": {
+        "diet_focus": "High-calorie working-dog diet",
+        "notes": "Adjust intake to workload; maintain lean body condition"
+      },
+      "grooming": "Heavy shedding; frequent brushing",
+      "exercise": "Long hikes, pulling activities, structured training",
+      "sources": [
+        "https://www.akc.org/dog-breeds/alaskan-malamute/"
+      ],
+      "origin": {
+        "origin_country": "United States",
+        "region": "Alaska, USA",
+        "historical_role": "Heavy freight sled dog of Mahlemut people",
+        "commonly_found_in": [
+          "Alaska",
+          "United States",
+          "Canada",
+          "Arctic and subarctic regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "samoyed",
+      "display_name": "Samoyed",
+      "aliases": [],
+      "characteristics": {
+        "size": "Medium to large",
+        "weight_range": "35-65 lbs",
+        "height_range": "19-23.5 inches",
+        "coat": "Thick white double coat",
+        "colors": [
+          "White",
+          "Cream"
+        ],
+        "life_span": "12-14 years"
+      },
+      "temperament_tags": [
+        "friendly",
+        "gentle",
+        "adaptable",
+        "social"
+      ],
+      "behavior_notes": "Typically friendly with people and dogs. Needs companionship and activity.",
+      "suitable_environment": {
+        "housing": "Active homes; tolerates cold well",
+        "climate": "Cooler climates preferred",
+        "exercise_needs": "High",
+        "family_fit": "Great family companion"
+      },
+      "food_priority": {
+        "diet_focus": "Active-dog balanced nutrition",
+        "notes": "Support coat health with quality diet and hydration"
+      },
+      "grooming": "High maintenance; frequent brushing",
+      "exercise": "Long walks, play, and training sessions",
+      "sources": [
+        "https://www.akc.org/dog-breeds/samoyed/"
+      ],
+      "origin": {
+        "origin_country": "Russia",
+        "region": "Siberia, Russia",
+        "historical_role": "Reindeer herding and sled dog for Samoyedic peoples",
+        "commonly_found_in": [
+          "Russia",
+          "United States",
+          "United Kingdom",
+          "Cold-climate regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "pug",
+      "display_name": "Pug",
+      "aliases": [],
+      "characteristics": {
+        "size": "Small",
+        "weight_range": "14-18 lbs",
+        "height_range": "10-13 inches",
+        "coat": "Short, smooth",
+        "colors": [
+          "Fawn",
+          "Black"
+        ],
+        "life_span": "13-15 years"
+      },
+      "temperament_tags": [
+        "charming",
+        "mischievous",
+        "loving",
+        "playful"
+      ],
+      "behavior_notes": "Companion breed that loves attention. Can be stubborn but affectionate.",
+      "suitable_environment": {
+        "housing": "Excellent apartment dog",
+        "climate": "Avoid heat and strenuous exercise in hot weather",
+        "exercise_needs": "Low to moderate",
+        "family_fit": "Great companion for many homes"
+      },
+      "food_priority": {
+        "diet_focus": "Weight-management small-breed diet",
+        "notes": "Prone to obesity; avoid overfeeding and monitor breathing in heat"
+      },
+      "grooming": "Weekly brushing; clean facial folds regularly",
+      "exercise": "Short walks and gentle play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/pug/"
+      ],
+      "origin": {
+        "origin_country": "China",
+        "region": "Ancient China",
+        "historical_role": "Imperial lapdog of Chinese nobility",
+        "commonly_found_in": [
+          "China",
+          "United States",
+          "United Kingdom",
+          "Urban areas worldwide"
+        ]
+      }
+    },
+    {
+      "breed_id": "weimaraner",
+      "display_name": "Weimaraner",
+      "aliases": [],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "55-90 lbs",
+        "height_range": "23-27 inches",
+        "coat": "Short, sleek",
+        "colors": [
+          "Gray",
+          "Silver-gray",
+          "Blue-gray"
+        ],
+        "life_span": "10-13 years"
+      },
+      "temperament_tags": [
+        "energetic",
+        "alert",
+        "loyal",
+        "intelligent"
+      ],
+      "behavior_notes": "High-energy hunting breed. Needs exercise and close human interaction.",
+      "suitable_environment": {
+        "housing": "Active homes with outdoor access",
+        "climate": "Adapts well",
+        "exercise_needs": "Very high",
+        "family_fit": "Best for active owners"
+      },
+      "food_priority": {
+        "diet_focus": "High-protein active-dog diet",
+        "notes": "Increase calories with workload; maintain lean muscle"
+      },
+      "grooming": "Low maintenance coat",
+      "exercise": "Running, field work, advanced training",
+      "sources": [
+        "https://www.akc.org/dog-breeds/weimaraner/"
+      ],
+      "origin": {
+        "origin_country": "Germany",
+        "region": "Weimar, Germany",
+        "historical_role": "Large-game hunting dog for nobility",
+        "commonly_found_in": [
+          "Germany",
+          "United States",
+          "United Kingdom",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "collie",
+      "display_name": "Collie",
+      "aliases": [
+        "Rough Collie"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "50-75 lbs",
+        "height_range": "22-26 inches",
+        "coat": "Long double coat",
+        "colors": [
+          "Sable and white",
+          "Tricolor",
+          "Blue merle"
+        ],
+        "life_span": "12-14 years"
+      },
+      "temperament_tags": [
+        "graceful",
+        "devoted",
+        "intelligent",
+        "friendly"
+      ],
+      "behavior_notes": "Gentle and responsive family dog with herding instincts.",
+      "suitable_environment": {
+        "housing": "Homes with room and active families",
+        "climate": "Adapts well",
+        "exercise_needs": "Moderate to high",
+        "family_fit": "Excellent with children"
+      },
+      "food_priority": {
+        "diet_focus": "Balanced large-breed nutrition",
+        "notes": "Support coat and joint health with quality diet"
+      },
+      "grooming": "High maintenance; frequent brushing required",
+      "exercise": "Walks, herding games, obedience",
+      "sources": [
+        "https://www.akc.org/dog-breeds/collie/"
+      ],
+      "origin": {
+        "origin_country": "Scotland",
+        "region": "Scottish Highlands and Lowlands",
+        "historical_role": "Sheep herding in the Scottish countryside",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Australia",
+          "Rural temperate regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "shetland_sheepdog",
+      "display_name": "Shetland Sheepdog",
+      "aliases": [
+        "Sheltie"
+      ],
+      "characteristics": {
+        "size": "Small",
+        "weight_range": "15-25 lbs",
+        "height_range": "13-16 inches",
+        "coat": "Long double coat",
+        "colors": [
+          "Sable",
+          "Black and white",
+          "Blue merle"
+        ],
+        "life_span": "12-14 years"
+      },
+      "temperament_tags": [
+        "bright",
+        "playful",
+        "energetic",
+        "responsive"
+      ],
+      "behavior_notes": "Intelligent herding breed. Can be reserved with strangers and vocal.",
+      "suitable_environment": {
+        "housing": "Adaptable with daily activity",
+        "climate": "Handles cool weather well",
+        "exercise_needs": "Moderate to high",
+        "family_fit": "Great for training-focused families"
+      },
+      "food_priority": {
+        "diet_focus": "Small-breed active-dog diet",
+        "notes": "Maintain healthy weight to reduce joint stress"
+      },
+      "grooming": "Regular brushing to prevent matting",
+      "exercise": "Agility, obedience, daily walks",
+      "sources": [
+        "https://www.akc.org/dog-breeds/shetland-sheepdog/"
+      ],
+      "origin": {
+        "origin_country": "Scotland",
+        "region": "Shetland Islands, Scotland",
+        "historical_role": "Small farm herder adapted to harsh island climate",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Scandinavia",
+          "Temperate farm regions"
+        ]
+      }
+    },
+    {
+      "breed_id": "english_springer",
+      "display_name": "English Springer Spaniel",
+      "aliases": [
+        "Springer Spaniel"
+      ],
+      "characteristics": {
+        "size": "Medium",
+        "weight_range": "40-50 lbs",
+        "height_range": "19-20 inches",
+        "coat": "Medium-length with feathering",
+        "colors": [
+          "Black and white",
+          "Liver and white"
+        ],
+        "life_span": "12-14 years"
+      },
+      "temperament_tags": [
+        "friendly",
+        "eager",
+        "alert",
+        "trainable"
+      ],
+      "behavior_notes": "Enthusiastic sporting breed. Enjoys outdoor activity and human partnership.",
+      "suitable_environment": {
+        "housing": "Active homes with outdoor access",
+        "climate": "Adapts well",
+        "exercise_needs": "High",
+        "family_fit": "Great active family dog"
+      },
+      "food_priority": {
+        "diet_focus": "Performance or active-dog formula",
+        "notes": "Higher energy needs when hunting or training regularly"
+      },
+      "grooming": "Regular brushing and ear care",
+      "exercise": "Field work, fetch, long walks",
+      "sources": [
+        "https://www.akc.org/dog-breeds/english-springer-spaniel/"
+      ],
+      "origin": {
+        "origin_country": "England",
+        "region": "England",
+        "historical_role": "Spaniel bred to spring game for hunters",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "Ireland",
+          "Europe"
+        ]
+      }
+    },
+    {
+      "breed_id": "bull_mastiff",
+      "display_name": "Bullmastiff",
+      "aliases": [
+        "Bull Mastiff"
+      ],
+      "characteristics": {
+        "size": "Large",
+        "weight_range": "100-130 lbs",
+        "height_range": "24-27 inches",
+        "coat": "Short, dense",
+        "colors": [
+          "Fawn",
+          "Red",
+          "Brindle"
+        ],
+        "life_span": "7-9 years"
+      },
+      "temperament_tags": [
+        "loyal",
+        "brave",
+        "calm",
+        "protective"
+      ],
+      "behavior_notes": "Guardian breed that is generally calm indoors. Needs early socialization.",
+      "suitable_environment": {
+        "housing": "Spacious home with experienced owner",
+        "climate": "Avoid heat stress",
+        "exercise_needs": "Moderate",
+        "family_fit": "Protective family companion with training"
+      },
+      "food_priority": {
+        "diet_focus": "Large-breed weight-controlled diet",
+        "notes": "Prevent obesity; support joints and avoid bloat risk with measured meals"
+      },
+      "grooming": "Low maintenance; seasonal shedding",
+      "exercise": "Daily walks and controlled play",
+      "sources": [
+        "https://www.akc.org/dog-breeds/bullmastiff/"
+      ],
+      "origin": {
+        "origin_country": "England",
+        "region": "England",
+        "historical_role": "Gamekeeper night dog to guard estates",
+        "commonly_found_in": [
+          "United Kingdom",
+          "United States",
+          "South Africa",
+          "Europe"
+        ]
+      }
+    }
+  ]
+}
