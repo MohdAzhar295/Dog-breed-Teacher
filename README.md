@@ -1,6 +1,6 @@
 # Dog Breed Recognition + Breed Profile
 
-Web app that identifies **30 common dog breeds** from an uploaded or camera-captured image and returns breed characteristics, temperament, environment needs, and food priorities.
+Web app that identifies **30+ common dog breeds** from an uploaded or camera-captured image and returns breed characteristics, temperament, environment needs, and food priorities.
 
 ## Features
 
